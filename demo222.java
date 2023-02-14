@@ -2,6 +2,7 @@ public class DEMO
 {
     public static void main(String[] args)
     {
-        System.out.println("Welcome to Java");
+	for(int i=0; i<10; i++)
+		system.out.println("Welcome to Java");
     }
 }
